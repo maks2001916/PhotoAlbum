@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo album</string>
+    <string name="start">Начать просмотр</string>
+    <string name="heading">Альбом любимых фотографий</string>
+    <string name="next">Следующее</string>
+    <string name="thanks">Спасибо за просмотр! До свидания</string>
+    <string name="exit">Выход</string>
+</resources>
